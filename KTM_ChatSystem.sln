@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KTM_ChatSystem", "KTM_ChatSystem\KTM_ChatSystem.csproj", "{FDBE76CE-E706-4719-9BEF-E23912A1D4E8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KTM_ChatSystemCore", "KTM_ChatSystemCore\KTM_ChatSystemCore.csproj", "{469DAAEE-D8B2-48F3-818B-9FA8318352B1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KTM_ChatSystemInfrastructure", "KTM_ChatSystemInfrastructure\KTM_ChatSystemInfrastructure.csproj", "{1A65BEC7-13FE-4C5F-8F54-457992FE8328}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KTM_ChatSystemWeb", "KTM_ChatSystemWeb\KTM_ChatSystemWeb.csproj", "{FC70157A-A343-4373-9B0B-3AEF02AFF86E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KTM_ChatSystemXUnitTest", "KTM_ChatSystemXUnitTest\KTM_ChatSystemXUnitTest.csproj", "{0CABD980-6A71-4490-8FEF-E248AF91559D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KTM_ChatSystemMSUnitTest", "KTM_ChatSystemMSUnitTest\KTM_ChatSystemMSUnitTest.csproj", "{D9052303-1668-4A44-B169-FD588DDA1A91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDBE76CE-E706-4719-9BEF-E23912A1D4E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDBE76CE-E706-4719-9BEF-E23912A1D4E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDBE76CE-E706-4719-9BEF-E23912A1D4E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDBE76CE-E706-4719-9BEF-E23912A1D4E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{469DAAEE-D8B2-48F3-818B-9FA8318352B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{469DAAEE-D8B2-48F3-818B-9FA8318352B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{469DAAEE-D8B2-48F3-818B-9FA8318352B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{469DAAEE-D8B2-48F3-818B-9FA8318352B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A65BEC7-13FE-4C5F-8F54-457992FE8328}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A65BEC7-13FE-4C5F-8F54-457992FE8328}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A65BEC7-13FE-4C5F-8F54-457992FE8328}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A65BEC7-13FE-4C5F-8F54-457992FE8328}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC70157A-A343-4373-9B0B-3AEF02AFF86E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC70157A-A343-4373-9B0B-3AEF02AFF86E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC70157A-A343-4373-9B0B-3AEF02AFF86E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC70157A-A343-4373-9B0B-3AEF02AFF86E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CABD980-6A71-4490-8FEF-E248AF91559D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CABD980-6A71-4490-8FEF-E248AF91559D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CABD980-6A71-4490-8FEF-E248AF91559D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CABD980-6A71-4490-8FEF-E248AF91559D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9052303-1668-4A44-B169-FD588DDA1A91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9052303-1668-4A44-B169-FD588DDA1A91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9052303-1668-4A44-B169-FD588DDA1A91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9052303-1668-4A44-B169-FD588DDA1A91}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4291BCD9-3A3D-4A62-A5E1-9576877848D0}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+@KTM_ChatSystem_HostAddress = http://localhost:5160
+
+GET {{KTM_ChatSystem_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
